@@ -9,7 +9,7 @@
 - 📫 Fale comigo em **guegueferreira123@gmail.com**
 
 
-<h1 align="center"> Meu Buddy: 
+<h1 align="left"> Meu Buddy: 
 <h3 align="center"> O veterano que me foi designado foi o [André Lobo](https://github.com/AndreLobo1), ele têm sido excelente no seu papel de me introduzir ao mundo Inteli, conseguiu me esclarecer diversas dúvidas e me deixou a vontade para questionar sobre qualquer assunto que surja alguma dúvida! Com certeza a dinâmica do Buddy faz uma completa diferença na introdução de um calouro, no futuro quando for um veterano quero poder estar no lugar do André e auxiliar um calouro, pois mesmo nesse curto período de tempo já senti a diferença que eles fazem!
   
 <h3 align="left">Connect with me:</h3>
