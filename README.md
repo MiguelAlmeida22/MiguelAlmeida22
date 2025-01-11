@@ -7,8 +7,8 @@
 - 🤝 Estou sempre aberto a **novas amizades e parcerias!**
 - 📫 Fale comigo em **guegueferreira123@gmail.com**
 
-<h1 align="center"> Meu Buddy:
-
+<h1 align="left"> Meu Buddy:
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/miguelferreiraa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguelferreiraa__" height="30" width="40" /></a>
