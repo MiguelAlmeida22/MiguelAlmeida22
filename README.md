@@ -2,13 +2,9 @@
 <h3 align="center">Estou cursando Engenharia de Software no Instituto de Tecnologia e Liderança (INTELI). Desde sempre sou encantado por todo tipo de tecnologia e pelas oportunidades que elas nos trazem, busco estar em constante evolução e aprendizado, pois sou fascinado em aprender novas coisas!</h3>
 
 - 👨‍🎓 Cursando Engenharia de Software **no INTELI!**
-
 - 📜 Sou certificado na língua inglesa pelo exame **Cambridge Linguaskill!**
-
 - 🔍 Estou sempre buscando aprender sobre **novas coisas!**
-
 - 🤝 Estou sempre aberto a **novas amizades e parcerias!**
-
 - 📫 Fale comigo em **guegueferreira123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
