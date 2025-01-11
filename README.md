@@ -11,7 +11,7 @@
 
 <h1 align="center"> Meu Buddy: [André Lobo](https://github.com/AndreLobo1)
 <h3 align="center"> O veterano que me foi designado foi o [André Lobo](https://github.com/AndreLobo1), ele têm sido excelente no seu papel de me introduzir ao mundo Inteli, conseguiu me esclarecer diversas dúvidas e me deixou a vontade para questionar sobre qualquer assunto que surja alguma dúvida! Com certeza a dinâmica do Buddy faz uma completa diferença na introdução de um calouro, no futuro quando for um veterano quero poder estar no lugar do André e auxiliar um calouro, pois mesmo nesse curto período de tempo já senti a diferença que eles fazem!
-  
+  [André Lobo](https://github.com/AndreLobo1)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/miguelferreiraa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miguelferreiraa__" height="30" width="40" /></a>
