@@ -6,7 +6,7 @@
 - 📜 Sou certificado na língua inglesa pelo exame **Cambridge Linguaskill!**
 - 🔍 Estou sempre buscando aprender sobre **novas coisas!**
 - 🤝 Estou sempre aberto a **novas amizades e parcerias!**
-- 📫 Fale comigo em **guegueferreira123@gmail.com**
+- 📫 Fale comigo em **miguel.almeida@sou.inteli.edu.br**
 
 
 ## Meu Buddy: 
