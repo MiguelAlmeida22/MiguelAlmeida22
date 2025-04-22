@@ -13,7 +13,7 @@
 
 <h3 align="left">Me ache em:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/miguel_almeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel almeida" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/miguel_almeida](https://www.linkedin.com/in/miguel-almeida-83175b350/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel almeida" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
