@@ -1,5 +1,5 @@
 <h1 align="left">Prazer, eu sou o Miguel Almeida!</h1>
-<h3 align="center">Estou cursando Engenharia de Software no Instituto de Tecnologia e Liderança (INTELI). Desde sempre sou encantado por todo tipo de tecnologia e pelas oportunidades que elas nos trazem. Busco estar em constante evolução e aprendizado, pois sou fascinado em aprender novas coisas!</h3>
+<h3 align="center">Estou cursando Engenharia de Software no Instituto de Tecnologia e Liderança (INTELI). Desde sempre fui encantado por todo tipo de tecnologia e pelas oportunidades que elas nos trazem. Busco estar em constante evolução e aprendizado, pois sou fascinado em aprender novas coisas!</h3>
 
 - 👨‍🎓 Cursando Engenharia de Software **no INTELI!**
 
